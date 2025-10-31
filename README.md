@@ -32,3 +32,14 @@ cd powerline_setting
 이후 사용하는 Terminal에서 Font를 위에서 설치한 D2Coding으로 지정 후
 
 Terminal 종료 후 재시작
+
+## Screenshot
+<details>
+<summary>Screenshot 보기</summary>
+
+![image_00](./images/result_00.png)
+![image_01](./images/result_01.png)
+![image_02](./images/result_02.png)
+![image_03](./images/result_03.png)
+
+</details>
